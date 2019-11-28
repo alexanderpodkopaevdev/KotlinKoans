@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Introduction/Default arguments/build/
+/Introduction/Hello, world!/build/
+/Introduction/Java to Kotlin conversion/build/
+/Introduction/Named arguments/build/
+/util/build/
